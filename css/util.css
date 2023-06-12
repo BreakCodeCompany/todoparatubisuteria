@@ -455,6 +455,16 @@ TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT
 /*[ S-Text 0 - 15 ]
 ///////////////////////////////////////////////////////////
 */
+
+.logo_text{
+	font-family: Poppins-Bold;
+    font-size: 35px;
+    color: black;
+    line-height: 1.2;
+    letter-spacing: -1px;
+    text-transform: uppercase;
+}
+
 .s-text1 {
 	font-family: Montserrat-Regular;
 	font-size: 15px;

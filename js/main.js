@@ -138,6 +138,14 @@
                 $('.sub-menu').css('display','none');
                 $('.arrow-main-menu').removeClass('turn-arrow');
             }
+            $('.top-superior').css('display','block');
+        }
+    });
+
+    $(window).resize(function(){
+        if($(window).width() < 992){
+            $('.top-superior').css('display','none');
+
         }
     });
 

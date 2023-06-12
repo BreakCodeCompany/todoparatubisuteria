@@ -831,6 +831,11 @@ li.sale-noti > a {
 
 /*[ Menu mobile ]
 -----------------------------------------------------------*/
+.top-superior{
+ 
+  display: block;
+}
+
 .wrap-side-menu {
   width: 100%;
   background-color: white;
